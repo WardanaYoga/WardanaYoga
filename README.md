@@ -1,9 +1,9 @@
 # 🔥 About Me
-<img src="https://github.com/WardanaYoga/page/blob/main/spiderman2.jpg" alt="Banner" width="50%">
+<img src="https://github.com/WardanaYoga/page/blob/main/spiderman2.jpg" alt="Banner" width="100%">
 
 <h3 align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=22D3EE&width=435&lines=Hello%2C+I'm+Made+Wena+Harilegawa!+👋;I'm+glad+you're+here!" alt="Typing SVG">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=22D3EE&width=435&lines=Hello%2C+World!+I'm+Wardana+Yoga!+👋;I'm+glad+you're+here!" alt="Typing SVG">
     </a>
 </h3>
 
