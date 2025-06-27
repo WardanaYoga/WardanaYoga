@@ -1,5 +1,5 @@
 # 🔥 About Me
-<img src="https://github.com/WenaHarle/WenaHarle/blob/main/Untitled-1.png" alt="Banner" width="100%">
+<img src="https://github.com/WardanaYoga/page/blob/main/spiderman.png" alt="Banner" width="100%">
 
 <h3 align="center">
     <a href="https://git.io/typing-svg">
