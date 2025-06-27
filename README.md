@@ -60,9 +60,6 @@
     <b>Databases</b>
   </td>
     <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge">
       <img src="https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase Badge">
     </td>
 </tr>
@@ -72,20 +69,14 @@
   </td>
   <td>
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino Badge">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge">
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code Badge">
-    <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Badge">
   </td>
 </tr>
 <tr>
   <td>
-    <b>Robotics</b>
+    <b>Electronics</b>
   </td>
   <td>
-    <img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2 Badge">
-    <img src="https://img.shields.io/badge/Gazebo-00AEEF?style=for-the-badge&logo=gazebo&logoColor=white" alt="Gazebo Badge">
-    <img src="https://img.shields.io/badge/PyBullet-3066A3?style=for-the-badge&logo=python&logoColor=white" alt="PyBullet Badge">
   </td>
 </tr>
 <tr>
@@ -93,9 +84,6 @@
     <b>Operating Systems</b>
   </td>
   <td>
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Badge">
-    <img src="https://img.shields.io/badge/Kali%20Linux-557C8C?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux Badge">
-    <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white" alt="CentOS Badge">
   </td>
 </tr>
 </table>
