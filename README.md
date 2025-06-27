@@ -1,5 +1,5 @@
 # 🔥 About Me
-<img src="https://github.com/WardanaYoga/page/blob/main/spiderman.png" alt="Banner" width="50%">
+<img src="https://github.com/WardanaYoga/page/blob/main/spiderman2.jpg" alt="Banner" width="50%">
 
 <h3 align="center">
     <a href="https://git.io/typing-svg">
