@@ -14,8 +14,8 @@
 ### Quick Facts:
 
 - 🎓 **Electrical Engineering Student**  
-- 🤖 Passionate about **IoT**, **Robotics**, and **Machine Learning**  
-- 💻 Currently working at Brawijaya Robotics, And PT. SIKLON 
+- 🤖 Passionate about **Embeded Systems**, **Electrionics**, **Machine Learning**, and **Full Stack Dev**  
+- 💻 Currently working at Brawijaya Aerokreasi 
 - 🔧 Love tinkering with hardware and software to bring ideas to life!  
 
 ## 🛠️ Tools & Technologies I Work With
