@@ -106,4 +106,4 @@
 
 ## 📊 GitHub Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=WardanaYoga&bg_color=0d1117&color=00ffe4&line=00e7ff&point=00ffe0&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WardanaYoga&bg_color=0d1117&color=00ffe4&line=00e7ff&point=00ffe0&area=true&hide_border=true)
