@@ -7,95 +7,93 @@
     </a>
 </h3>
 
+---
 
-
-
-
-### Quick Facts:
+### 🚀 Quick Facts:
 
 - 🎓 **Electrical Engineering Student**  
-- 🤖 Passionate about **Embeded Systems**, **Electrionics**, **Machine Learning**, and **Full Stack Dev**  
-- 💻 Currently working at Brawijaya Aerokreasi 
-- 🔧 Love tinkering with hardware and software to bring ideas to life!  
+- 🤖 Passionate about **Embedded Systems**, **Electronics**, **Machine Learning**, and **Full Stack Development**  
+- 💻 Currently working at **Brawijaya Aerokreasi**  
+- 🔧 Love tinkering with hardware and software to bring ideas to life  
+
+---
 
 ## 🛠️ Tools & Technologies I Work With
+
 <table>
 <tr>
+  <td><b>Languages</b></td>
   <td>
-    <b>Languages</b>
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C Badge">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Badge">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   </td>
 </tr>
 <tr>
+  <td><b>Frameworks & Libraries</b></td>
   <td>
-    <b>Frameworks & Libraries</b>
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV Badge">
-  </td>
-</tr>
-<tr>
-  <td>
-    <b>Web Development</b>
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+    <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   </td>
 </tr>
 <tr>
+  <td><b>Web Development</b></td>
   <td>
-    <b>AI & Machine Learning</b>
-  </td>
-  <td>
-      
-  </td>
-</tr>
-<tr>
-  <td>
-    <b>Databases</b>
-  </td>
-    <td>
-      <img src="https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase Badge">
-    </td>
-</tr>
-<tr>
-  <td>
-    <b>Development Tools</b>
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino Badge">
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code Badge">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   </td>
 </tr>
 <tr>
+  <td><b>Databases</b></td>
   <td>
-    <b>Electronics</b>
-  </td>
-  <td>
+    <img src="https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=white" />
   </td>
 </tr>
 <tr>
+  <td><b>Development Tools</b></td>
   <td>
-    <b>Operating Systems</b>
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   </td>
+</tr>
+<tr>
+  <td><b>Electronics</b></td>
   <td>
+    <img src="https://img.shields.io/badge/ESP32-323232?style=for-the-badge&logo=espressif&logoColor=white" />
+    <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  </td>
+</tr>
+<tr>
+  <td><b>Operating Systems</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/Raspberry%20Pi%20OS-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   </td>
 </tr>
 </table>
 
-
+---
 
 ## 🌐 Connect with Me
-<a href="https://twitter.com/mwharlew">![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)</a>
-<a href="https://linkedin.com/in/shalahuddin-yoga-wardana-abdullah">![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)</a>
-<a href="https://www.instagram.com/wardanafrdm_">![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)</a>
+
+<a href="https://twitter.com/mwharlew">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
+</a>
+<a href="https://linkedin.com/in/shalahuddin-yoga-wardana-abdullah">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+</a>
+<a href="https://www.instagram.com/wardanafrdm_">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+</a>
+
+---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WardanaYoga&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WardanaYoga&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WardanaYoga&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)  
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WardanaYoga&theme=tokyonight)  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=WardanaYoga&theme=radical)](https://git.io/streak-stats)
