@@ -96,6 +96,6 @@
 <a href="https://instagram.com/mw.harilegawa">![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)</a>
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WenaHarle&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WenaHarle&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=WenaHarle&theme=radical)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WardanaYoga&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WardanaYoga&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=WardanaYoga&theme=radical)](https://git.io/streak-stats)
