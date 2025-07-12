@@ -18,7 +18,7 @@
 
 - 🎓 **Electrical Engineering Student**  
 - 🤖 Passionate about **Embedded Systems**, **Electronics**, **Machine Learning**, and **Full Stack Development**  
-- 💻 Currently working at **Brawijaya Aerokreasi**  
+- 💻 Currently working at **Brawijaya Aerokreasi**, **AI Center Universitas Brawijaya**  
 - 🔧 Love tinkering with hardware and software to bring ideas to life  
 
 ---
