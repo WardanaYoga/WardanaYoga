@@ -7,6 +7,10 @@
     </a>
 </h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" alt="Coding gif" />
+</p>
+
 ---
 
 ### 🚀 Quick Facts:
@@ -97,3 +101,9 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WardanaYoga&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)  
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WardanaYoga&theme=tokyonight)  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=WardanaYoga&theme=radical)](https://git.io/streak-stats)
+
+---
+
+## 📊 GitHub Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=WardanaYoga&bg_color=0d1117&color=00ffe4&line=00e7ff&point=00ffe0&area=true&hide_border=true)
