@@ -1,11 +1,11 @@
 # 🔥 About Me
 <img src="https://github.com/WardanaYoga/page/blob/main/spiderman2.jpg" alt="Banner" width="100%">
 
-<h3 align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=22D3EE&width=435&lines=Hello%2C+World!+I'm+Wardana+Yoga!+👋;I'm+glad+you're+here!" alt="Typing SVG">
-    </a>
-</h3>
+<div align="center">
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Wardana+Yoga+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Electronics+%2B+AI+%2B+UAVs+%3D+❤️;Always+learning+something+new!" alt="Typing SVG" />
+
+</div>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" alt="Coding gif" />
