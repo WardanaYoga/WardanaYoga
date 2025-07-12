@@ -93,7 +93,7 @@
 ## 🌐 Connect with Me
 <a href="https://twitter.com/mwharlew">![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)</a>
 <a href="https://linkedin.com/in/shalahuddin-yoga-wardana-abdullah">![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)</a>
-<a href="https://instagram.com/mw.harilegawa">![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)</a>
+<a href="https://www.instagram.com/wardanafrdm_">![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)</a>
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WardanaYoga&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
