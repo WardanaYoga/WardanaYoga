@@ -1,8 +1,10 @@
-# 👋 Hi, I'm Wardana Yoga
+# 🔥 About Me
 
-🎓 Electrical Engineering Student  
-🚀 UAV | Embedded Systems | AI Developer  
-🔧 Tinkering with Electronics, Hardware, and Code  
+<img src="https://github.com/WardanaYoga/page/blob/main/spiderman2.jpg" alt="Banner" width="100%" />
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A259FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Wardana+Yoga+👋;Welcome+to+my+GitHub+Profile!;Electronics+%2B+AI+%2B+UAVs+%3D+❤️;Always+learning+something+new!" />
+</div>
 
 ---
 
@@ -11,23 +13,23 @@
 - 💡 **Embedded Systems Developer**  
 - 🛩️ **UAV System Designer & Payload Engineer**  
 - 🧠 **AI & Computer Vision Enthusiast**  
-- 🔐 **IoT & Smart Access System Developer**  
-- 🛠️ **Project Builder @ Brawijaya Aerokreasi & AI Center UB**
+- 🔐 **IoT & Smart Access Developer**  
+- 🛠️ **Tech Builder @ Brawijaya Aerokreasi & AI Center UB**
 
 ---
 
 ## ⚙️ Tech Stack
 
-### 🧠 AI & Data Science  
+### 🧠 AI & Computer Vision  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 
-### 🔌 Embedded & Hardware  
+### 🔌 Embedded Systems & Hardware  
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-323232?style=flat-square&logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
-![HX711](https://img.shields.io/badge/HX711-Green?style=flat-square)
+![HX711](https://img.shields.io/badge/HX711-green?style=flat-square)
 
 ### 💻 Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
@@ -65,8 +67,8 @@
 
 ## 🌐 Connect with Me
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:siudin22@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shalahuddin-yoga-wardana-abdullah)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:siudin22@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shalahuddin-yoga-wardana-abdullah)  
 [![Instagram](https://img.shields.io/badge/@wardanafrdm_-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/wardanafrdm_)
 
 ---
