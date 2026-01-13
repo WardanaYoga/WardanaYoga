@@ -1,49 +1,58 @@
-# 🔥 About Me
+# Shalahuddin Yoga Wardana Abdullah
 
-<img src="https://github.com/WardanaYoga/page/blob/main/spiderman2.jpg" alt="Banner" width="100%" />
+<img src="https://github.com/WardanaYoga/page/blob/main/spiderman2.jpg" alt="Profile Banner" width="100%" />
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A259FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Wardana+Yoga+👋;Welcome+to+my+GitHub+Profile!;Electronics+%2B+AI+%2B+UAVs+%3D+❤️;Always+learning+something+new!" />
-</div>
-
----
-
-## 👨‍💻 Roles
-
-- 💡 **Embedded Systems Developer**  
-- 🛩️ **UAV System Designer & Payload Engineer**  
-- 🧠 **AI & Computer Vision Enthusiast**  
-- 🔐 **IoT & Smart Access Developer**  
-- 🛠️ **Tech Builder @ Brawijaya Aerokreasi & AI Center UB**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=520&lines=Embedded+Systems+Engineer;UAV+System+Designer;AI+%26+Computer+Vision+Developer;Building+Intelligent+Hardware+Systems" />
+</p>
 
 ---
 
-## ⚙️ Tech Stack
+## Professional Summary
 
-### 🧠 AI & Computer Vision  
+I am an **Embedded Systems and Intelligent Hardware Engineer** with strong focus on **UAV systems, AI-based perception, and smart embedded platforms**.  
+My work integrates **electronics, firmware, and machine intelligence** to deliver reliable, real-world engineering solutions.
+
+Currently active in **research, prototyping, and system integration** within academic and applied technology environments.
+
+---
+
+## Core Roles & Expertise
+
+- Embedded Systems Engineer  
+- UAV System Designer & Payload Engineer  
+- AI & Computer Vision Developer  
+- IoT & Smart Access Control Engineer  
+- Technology Builder — *Brawijaya Aerokreasi & AI Center Universitas Brawijaya*
+
+---
+
+## Technical Competencies
+
+### Artificial Intelligence & Computer Vision
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-### 🔌 Embedded Systems & Hardware  
+### Embedded Systems & Hardware Platforms
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-323232?style=flat-square&logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
-![HX711](https://img.shields.io/badge/HX711-green?style=flat-square)
+![HX711](https://img.shields.io/badge/HX711-2E7D32?style=flat-square)
 
-### 💻 Programming Languages  
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-004482?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### 🌐 Web & GUI  
+### Web, Interface & Application Layer
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-003B57?style=flat-square)
 
-### 🛠️ Tools & Platforms  
+### Development Tools & Environments
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -51,26 +60,32 @@
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WardanaYoga&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WardanaYoga&layout=compact&theme=tokyonight&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com?user=WardanaYoga&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WardanaYoga&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WardanaYoga&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
----
-
-## 📊 GitHub Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WardanaYoga&bg_color=0d1117&color=00ffe4&line=00e7ff&point=00ffe0&area=true&hide_border=true)
-
----
-
-## 🌐 Connect with Me
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:siudin22@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shalahuddin-yoga-wardana-abdullah)  
-[![Instagram](https://img.shields.io/badge/@wardanafrdm_-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/wardanafrdm_)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=WardanaYoga&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-> *"Create what doesn't exist. Improve what already does."*
+## Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WardanaYoga&bg_color=0d1117&color=8B5CF6&line=6366F1&point=A5B4FC&area=true&hide_border=true"/>
+
+---
+
+## Professional Contact
+
+- Email: [siudin22@gmail.com](mailto:siudin22@gmail.com)  
+- LinkedIn: [linkedin.com/in/shalahuddin-yoga-wardana-abdullah](https://linkedin.com/in/shalahuddin-yoga-wardana-abdullah)  
+- Instagram: [@wardanafrdm_](https://instagram.com/wardanafrdm_)
+
+---
+
+> **Engineering philosophy**  
+> *Design systems that are reliable, intelligent, and ready for real-world deployment.*
