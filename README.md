@@ -1,6 +1,6 @@
 # Shalahuddin Yoga Wardana Abdullah
 
-<img src="https://github.com/WardanaYoga/page/blob/main/1.avif" alt="Profile Banner" width="100%" height = "500px"/>
+<img src="https://github.com/WardanaYoga/page/blob/main/6.png" alt="Profile Banner" width="100%" height = "500px"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1E3A8A&center=true&vCenter=true&width=520&lines=Embedded+Systems+Engineer;UAV+System+Designer;AI+%26+Computer+Vision+Developer;Building+Intelligent+Hardware+Systems" />
